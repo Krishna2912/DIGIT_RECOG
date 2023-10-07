@@ -13,4 +13,4 @@ Another thing is the voice based output is saved in the file "predicted_digit_ou
 
 I uploaded the sample images to test the trained model.
 
-I HOPE THIS WILL HELP YOU TO YOUR EXECUTION :) 
+I HOPE THIS WILL HELP YOU :) 
