@@ -11,3 +11,6 @@ i just drawn the digit over there and make the predition as voice output.
 
 Another thing is the voice based output is saved in the file "predicted_digit_output.mp3" in mp3 format
 
+I uploaded the sample images to test the trained model.
+
+I HOPE THIS WILL HELP YOU TO YOUR EXECUTION :) 
