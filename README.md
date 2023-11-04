@@ -1,6 +1,6 @@
 # DIGIT_RECOG
 
-This project is based on the recognition of digit using MNIST dataset, I trained this dataset using CNN model and test the trained model with the paint appliction. 
+This project is based on the recognition of digit using MNIST dataset, I trained this dataset using CNN model and test the trained model with the paint application. 
 i just drawn the digit over there and make the predition as voice output.
 
 ####  important  ###
